@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_ui_macro">
+    <sys_ui_macro action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category>general</category>
+        <description>show user incidents popup link&#13;
+			activate by:&#13;
+			- set the active field in this macro to true&#13;
+			- adding the attribute to a dictionary field:
+			ref_contributions=user_show_incidents
+		</description>
+        <media_type/>
+        <name>Show related EVS tickets</name>
+        <scoped_name>x_sthc_evs_Show related EVS tickets</scoped_name>
+        <sys_class_name>sys_ui_macro</sys_class_name>
+        <sys_created_by>LGOMEZ</sys_created_by>
+        <sys_created_on>2018-06-06 17:24:01</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>34301355dbe2534096b17d8bbf961998</sys_id>
+        <sys_mod_count>6</sys_mod_count>
+        <sys_name>Show related EVS tickets</sys_name>
+        <sys_package display_value="Environmental Services (EVS)" source="x_sthc_evs">06b61c59db66d34040f8fcfa0c96191d</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Environmental Services (EVS)">06b61c59db66d34040f8fcfa0c96191d</sys_scope>
+        <sys_update_name>sys_ui_macro_34301355dbe2534096b17d8bbf961998</sys_update_name>
+        <sys_updated_by>LGOMEZ</sys_updated_by>
+        <sys_updated_on>2018-06-06 17:42:55</sys_updated_on>
+        <xml><![CDATA[<?xml version="1.0" encoding="utf-8" ?>
+<j:jelly trim="false" xmlns:j="jelly:core" xmlns:g="glide" xmlns:j2="null" xmlns:g2="null">
+<g:evaluate var="jvar_guid" expression="gs.generateGUID(this);" />
+<j:set var="jvar_n" value="show_incidents_${jvar_guid}:${ref}"/>
+<g:reference_decoration id="${jvar_n}" field="${ref}" 
+  onclick="showRelatedList('${ref}'); "
+  title="${gs.getMessage('Show related ticketds')}" image="images/icons/tasks.gifx" icon="icon-tree-right"/>
+
+<script>
+// show related list 
+// todo: should be part of the PopupWindow class
+// todo: needs new stack name
+function showRelatedList(reference) {
+try {
+   var displayValue = g_form.getDisplayBox(reference).value;
+   var title = 'Showing records related to: ' + displayValue;
+   var s = reference.split('.');
+   var referenceField = s[s.length - 1];
+   var query = referenceField + '=' + g_form.getValue(reference);
+   var gdw = new GlideModal('show_list');
+   gdw.setTitle(title);
+   gdw.setSize(750);
+   gdw.setPreference('table', 'x_sthc_evs_environmental_services_evs_table_list');
+   gdw.setPreference('sysparm_query', query);
+   gdw.setPreference('title', 'A New Title');
+   gdw.render();
+	
+   } catch (e) {
+
+   jslog('error showing related list');
+   jslog(e);
+
+   }
+
+
+}
+
+</script>
+</j:jelly> ]]></xml>
+    </sys_ui_macro>
+</record_update>

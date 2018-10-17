@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_related sys_domain="global" table="x_sthc_evs_environmental_services_evs_table" version="2" view="">
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Environmental Services (EVS) Table - Default view" name="x_sthc_evs_environmental_services_evs_table" related_list="NULL" sys_domain="global" view="Default view">8810df15dbe2534096b17d8bbf96196e</list_id>
+            <order_by/>
+            <position>0</position>
+            <related_list>task_sla.task</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>LGOMEZ</sys_created_by>
+            <sys_created_on>2018-06-06 17:23:25</sys_created_on>
+            <sys_id>4c10df15dbe2534096b17d8bbf96196f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>LGOMEZ</sys_updated_by>
+            <sys_updated_on>2018-06-06 17:23:25</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list action="INSERT_OR_UPDATE">
+            <calculated_name>Environmental Services (EVS) Table - Default view</calculated_name>
+            <filter/>
+            <name>x_sthc_evs_environmental_services_evs_table</name>
+            <order_by/>
+            <position/>
+            <related_list/>
+            <sys_class_name>sys_ui_related_list</sys_class_name>
+            <sys_created_by>LGOMEZ</sys_created_by>
+            <sys_created_on>2018-06-06 17:23:25</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_domain>global</sys_domain>
+            <sys_id>8810df15dbe2534096b17d8bbf96196e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Environmental Services (EVS) Table - Default view</sys_name>
+            <sys_package display_value="Environmental Services (EVS)" source="x_sthc_evs">06b61c59db66d34040f8fcfa0c96191d</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Environmental Services (EVS)">06b61c59db66d34040f8fcfa0c96191d</sys_scope>
+            <sys_update_name>sys_ui_related_x_sthc_evs_environmental_services_evs_table_null</sys_update_name>
+            <sys_updated_by>LGOMEZ</sys_updated_by>
+            <sys_updated_on>2018-06-06 17:23:25</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_related_list>
+    </sys_ui_related>
+</record_update>

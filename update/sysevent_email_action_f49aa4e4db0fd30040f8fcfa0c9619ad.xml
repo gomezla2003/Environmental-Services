@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sysevent_email_action">
+    <sysevent_email_action action="INSERT_OR_UPDATE">
+        <action_insert>true</action_insert>
+        <action_update>false</action_update>
+        <active>true</active>
+        <advanced_condition/>
+        <affected_field_on_event/>
+        <category display_value="Request" name="Request">757cd28f13f003000f3f76d66144b023</category>
+        <collection>x_sthc_evs_environmental_services_evs_table</collection>
+        <condition/>
+        <content_type>multipart/mixed</content_type>
+        <description/>
+        <event_name>approval.cancelled</event_name>
+        <event_parm_1>false</event_parm_1>
+        <event_parm_2>false</event_parm_2>
+        <exclude_delegates>false</exclude_delegates>
+        <force_delivery>false</force_delivery>
+        <from/>
+        <generation_type>engine</generation_type>
+        <importance/>
+        <include_attachments>true</include_attachments>
+        <item>event.parm1</item>
+        <item_table/>
+        <mandatory>false</mandatory>
+        <message/>
+        <message_html/>
+        <message_list/>
+        <message_text><![CDATA[  var gr = new GlideRecord("sc_cat_item");
+  gr.addQuery("request", current.sys_id);
+  gr.query();
+  while(gr.next()) {
+      var item = ""
+
+      item += gr.u_req_category.getDisplayValue();
+
+}
+
+var thef = new EVG_SSI_EmailFormatter('Customer');
+  var incidentURL = gs.getProperty('glide.servlet.uri') + "nav_to.do?uri=" + GlideStringUtil.urlEncode(gs.generateURL(current.getTableName(), current.sys_id));
+  var sSubject = "Request " + current.item.toString() + " for " + item + " has been opened on your behalf";
+  var bResolved = false;
+
+ /* Header */
+  var aHeaderParms = {'BASE_URL' : gs.getProperty('glide.servlet.uri'),
+                                 'SUBJECT' : sSubject,
+                                 'URI_REF' : incidentURL,
+                                 'LINK_TITLE' : "View Incident Details"
+                                };
+  var sHTML = thef.getSection('header', aHeaderParms);
+
+  /* Intro */
+  var sContactName = current.user;
+  var aIntroParms = {'CONTACT' : sContactName,
+                             'CONTENT_TITLE' : "A Request has been submitted on your behalf for the following item:<br/><li>" + item + "</li><br/><br/>Click <a href=\"" + incidentURL + "\">here</a> to see more information about this Request<br/>"
+                             };
+  sHTML += thef.getSection('intro', aIntroParms );
+  sHTML += thef.getSection('signature');
+
+  /* Right frame Content */
+  var box2content = thef.contentHeader('Request  Information');
+  box2content += "Request ID: " + current.number;
+
+  var box1content = thef.contentHeader('Request Status');
+  box1content += gr.approval.getDisplayValue()+ "<br />";
+
+
+
+  var box3content = thef.contentHeader('Have any questions?');
+  box3content += "If you have any additional questions, please contact the Service Desk at 480-882-4357 or via the ServiceNow Self-Service portal.";
+
+  var aFrameParms = {'BOX1_CONTENT' : box1content, 'BOX2_CONTENT' : box2content,'BOX3_CONTENT' : box3content};
+  sHTML += thef.getSection('right_frame', aFrameParms);
+  sHTML += thef.getSection('footer');
+  email.setBody(sHTML);
+  email.setSubject(sSubject);]]></message_text>
+        <name>EVS - Request Opened on Behalf</name>
+        <omit_watermark>false</omit_watermark>
+        <order>100</order>
+        <push_message_only>false</push_message_only>
+        <recipient_fields>caller</recipient_fields>
+        <recipient_groups/>
+        <recipient_users/>
+        <reply_to/>
+        <send_self>true</send_self>
+        <sms_alternate><![CDATA[Request ${number} has been opened on your behalf]]></sms_alternate>
+        <style/>
+        <subject/>
+        <subscribable>false</subscribable>
+        <sys_class_name>sysevent_email_action</sys_class_name>
+        <sys_created_by>SHollien</sys_created_by>
+        <sys_created_on>2018-06-28 18:03:24</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_domain>global</sys_domain>
+        <sys_id>f49aa4e4db0fd30040f8fcfa0c9619ad</sys_id>
+        <sys_mod_count>8</sys_mod_count>
+        <sys_name>EVS - Request Opened on Behalf</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Environmental Services (EVS)" source="x_sthc_evs">06b61c59db66d34040f8fcfa0c96191d</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Environmental Services (EVS)">06b61c59db66d34040f8fcfa0c96191d</sys_scope>
+        <sys_update_name>sysevent_email_action_f49aa4e4db0fd30040f8fcfa0c9619ad</sys_update_name>
+        <sys_updated_by>SHollien</sys_updated_by>
+        <sys_updated_on>2018-06-29 19:58:28</sys_updated_on>
+        <sys_version>2</sys_version>
+        <template/>
+        <type>email</type>
+        <weight>0</weight>
+    </sysevent_email_action>
+</record_update>

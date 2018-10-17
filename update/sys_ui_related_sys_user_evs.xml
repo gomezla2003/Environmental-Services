@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_related sys_domain="global" table="sys_user" version="2" view="EVS">
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="User - EVS" name="sys_user" related_list="NULL" sys_domain="global" view="e1cf5740db07930040f8fcfa0c961955">342927ccdb07930040f8fcfa0c961964</list_id>
+            <order_by/>
+            <position>0</position>
+            <related_list>x_sthc_evs_environmental_services_evs_table.assigned_to</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>LGOMEZ</sys_created_by>
+            <sys_created_on>2018-06-27 18:31:58</sys_created_on>
+            <sys_id>b02927ccdb07930040f8fcfa0c961965</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>LGOMEZ</sys_updated_by>
+            <sys_updated_on>2018-06-27 18:31:58</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list action="INSERT_OR_UPDATE">
+            <calculated_name>User - EVS</calculated_name>
+            <filter/>
+            <name>sys_user</name>
+            <order_by/>
+            <position/>
+            <related_list/>
+            <sys_class_name>sys_ui_related_list</sys_class_name>
+            <sys_created_by>LGOMEZ</sys_created_by>
+            <sys_created_on>2018-06-27 18:31:58</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_domain>global</sys_domain>
+            <sys_id>342927ccdb07930040f8fcfa0c961964</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>User - EVS</sys_name>
+            <sys_package display_value="Environmental Services (EVS)" source="x_sthc_evs">06b61c59db66d34040f8fcfa0c96191d</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Environmental Services (EVS)">06b61c59db66d34040f8fcfa0c96191d</sys_scope>
+            <sys_update_name>sys_ui_related_sys_user_EVS</sys_update_name>
+            <sys_updated_by>LGOMEZ</sys_updated_by>
+            <sys_updated_on>2018-06-27 18:31:58</sys_updated_on>
+            <sys_user/>
+            <view display_value="EVS" name="EVS">e1cf5740db07930040f8fcfa0c961955</view>
+            <view_name/>
+        </sys_ui_related_list>
+    </sys_ui_related>
+</record_update>

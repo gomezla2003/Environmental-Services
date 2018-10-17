@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="EVS Users" max_length="40" name="x_sthc_evs_evs_users" type="collection">
+        <element label="EVS User" max_length="32" name="evs_user" reference="sys_user" type="reference"/>
+        <element label="Pager Number" max_length="40" name="pager_number" type="string"/>
+        <index name="index">
+            <element name="evs_user"/>
+        </index>
+    </element>
+</database>

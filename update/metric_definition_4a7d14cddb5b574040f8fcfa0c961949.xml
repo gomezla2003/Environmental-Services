@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="metric_definition">
+    <metric_definition action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <description/>
+        <field>state</field>
+        <name>EVS Metric table</name>
+        <number>MTRC1000004</number>
+        <order>100</order>
+        <script/>
+        <sys_class_name>metric_definition</sys_class_name>
+        <sys_created_by>LGOMEZ</sys_created_by>
+        <sys_created_on>2018-07-12 16:32:11</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>4a7d14cddb5b574040f8fcfa0c961949</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>EVS Metric table</sys_name>
+        <sys_package display_value="Environmental Services (EVS)" source="x_sthc_evs">06b61c59db66d34040f8fcfa0c96191d</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Environmental Services (EVS)">06b61c59db66d34040f8fcfa0c96191d</sys_scope>
+        <sys_update_name>metric_definition_4a7d14cddb5b574040f8fcfa0c961949</sys_update_name>
+        <sys_updated_by>LGOMEZ</sys_updated_by>
+        <sys_updated_on>2018-07-12 16:32:11</sys_updated_on>
+        <table>x_sthc_evs_environmental_services_evs_table</table>
+        <timeline>false</timeline>
+        <type>field_value_duration</type>
+    </metric_definition>
+</record_update>

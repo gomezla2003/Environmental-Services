@@ -1,0 +1,1221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update node_type="sys_portal_page" unload_date="2018-10-17 02:55:29">
+    <sys_portal_page action="INSERT_OR_UPDATE">
+        <layout/>
+        <order/>
+        <read_roles>snc_internal</read_roles>
+        <roles/>
+        <selectable>false</selectable>
+        <sys_class_name>sys_portal_page</sys_class_name>
+        <sys_created_by>LGOMEZ</sys_created_by>
+        <sys_created_on>2018-07-18 20:56:15</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_domain>global</sys_domain>
+        <sys_id>57831c0bdb171b0040f8fcfa0c96190d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>PA New Tab</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Environmental Services (EVS)" source="x_sthc_evs">06b61c59db66d34040f8fcfa0c96191d</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Environmental Services (EVS)">06b61c59db66d34040f8fcfa0c96191d</sys_scope>
+        <sys_update_name>sys_portal_page_57831c0bdb171b0040f8fcfa0c96190d</sys_update_name>
+        <sys_updated_by>LGOMEZ</sys_updated_by>
+        <sys_updated_on>2018-07-18 20:56:15</sys_updated_on>
+        <title>PA New Tab</title>
+        <user/>
+        <view>pa_new_tab_165</view>
+        <related_items_node>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone/>
+                <offset/>
+                <page display_value="PA New Tab">57831c0bdb171b0040f8fcfa0c96190d</page>
+                <summary>EVS average duration</summary>
+                <sys_created_by>LGOMEZ</sys_created_by>
+                <sys_created_on>2018-07-18 20:56:52</sys_created_on>
+                <sys_id>14b39c0bdb171b0040f8fcfa0c961968</sys_id>
+                <sys_mod_count>1</sys_mod_count>
+                <sys_updated_by>LGOMEZ</sys_updated_by>
+                <sys_updated_on>2018-07-18 20:56:52</sys_updated_on>
+                <related_items_node>
+                    <sys_grid_canvas_pane action="INSERT_OR_UPDATE">
+                        <grid_canvas display_value="PA New Tab">e7831c0bdb171b0040f8fcfa0c96190e</grid_canvas>
+                        <height>7</height>
+                        <portal_widget display_value="Created 07-18-2018 13:56:52">14b39c0bdb171b0040f8fcfa0c961968</portal_widget>
+                        <posx>4</posx>
+                        <posy>0</posy>
+                        <sys_class_name>sys_grid_canvas_pane</sys_class_name>
+                        <sys_created_by>LGOMEZ</sys_created_by>
+                        <sys_created_on>2018-07-18 20:56:52</sys_created_on>
+                        <sys_customer_update>false</sys_customer_update>
+                        <sys_id>60b39c0bdb171b0040f8fcfa0c96196a</sys_id>
+                        <sys_mod_count>19</sys_mod_count>
+                        <sys_name/>
+                        <sys_package display_value="Environmental Services (EVS)" source="x_sthc_evs">06b61c59db66d34040f8fcfa0c96191d</sys_package>
+                        <sys_policy/>
+                        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+                        <sys_scope display_value="Environmental Services (EVS)">06b61c59db66d34040f8fcfa0c96191d</sys_scope>
+                        <sys_update_name>sys_grid_canvas_pane_60b39c0bdb171b0040f8fcfa0c96196a</sys_update_name>
+                        <sys_updated_by>LGOMEZ</sys_updated_by>
+                        <sys_updated_on>2018-10-17 01:51:46</sys_updated_on>
+                        <width>4</width>
+                    </sys_grid_canvas_pane>
+                </related_items_node>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>help_text_window</name>
+                        <portal_section display_value="Created 07-18-2018 13:56:52">14b39c0bdb171b0040f8fcfa0c961968</portal_section>
+                        <sys_created_by>LGOMEZ</sys_created_by>
+                        <sys_created_on>2018-07-18 20:56:52</sys_created_on>
+                        <sys_id>20b39c0bdb171b0040f8fcfa0c961969</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>LGOMEZ</sys_updated_by>
+                        <sys_updated_on>2018-07-18 20:56:52</sys_updated_on>
+                        <value>report_widget_description</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 07-18-2018 13:56:52">14b39c0bdb171b0040f8fcfa0c961968</portal_section>
+                        <sys_created_by>LGOMEZ</sys_created_by>
+                        <sys_created_on>2018-07-18 20:56:52</sys_created_on>
+                        <sys_id>28b39c0bdb171b0040f8fcfa0c961968</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>LGOMEZ</sys_updated_by>
+                        <sys_updated_on>2018-07-18 20:56:52</sys_updated_on>
+                        <value>4ba2d047db171b0040f8fcfa0c96194f</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 07-18-2018 13:56:52">14b39c0bdb171b0040f8fcfa0c961968</portal_section>
+                        <sys_created_by>LGOMEZ</sys_created_by>
+                        <sys_created_on>2018-07-18 20:56:52</sys_created_on>
+                        <sys_id>68b39c0bdb171b0040f8fcfa0c961969</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>LGOMEZ</sys_updated_by>
+                        <sys_updated_on>2018-07-18 20:56:52</sys_updated_on>
+                        <value>EVS average duration</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 07-18-2018 13:56:52">14b39c0bdb171b0040f8fcfa0c961968</portal_section>
+                        <sys_created_by>LGOMEZ</sys_created_by>
+                        <sys_created_on>2018-07-18 20:56:52</sys_created_on>
+                        <sys_id>6cb39c0bdb171b0040f8fcfa0c961968</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>LGOMEZ</sys_updated_by>
+                        <sys_updated_on>2018-07-18 20:56:52</sys_updated_on>
+                        <value>com.glide.ui.portal.RenderReport</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>report_type</name>
+                        <portal_section display_value="Created 07-18-2018 13:56:52">14b39c0bdb171b0040f8fcfa0c961968</portal_section>
+                        <sys_created_by>LGOMEZ</sys_created_by>
+                        <sys_created_on>2018-07-18 20:56:52</sys_created_on>
+                        <sys_id>a4b39c0bdb171b0040f8fcfa0c961969</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>LGOMEZ</sys_updated_by>
+                        <sys_updated_on>2018-07-18 20:56:52</sys_updated_on>
+                        <value>single_score</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>show_title</name>
+                        <portal_section display_value="Created 07-18-2018 13:56:52">14b39c0bdb171b0040f8fcfa0c961968</portal_section>
+                        <sys_created_by>LGOMEZ</sys_created_by>
+                        <sys_created_on>2018-07-18 20:58:54</sys_created_on>
+                        <sys_id>c224dc0bdb171b0040f8fcfa0c961942</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>LGOMEZ</sys_updated_by>
+                        <sys_updated_on>2018-07-18 20:58:54</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>subscriber_widget</name>
+                        <portal_section display_value="Created 07-18-2018 13:56:52">14b39c0bdb171b0040f8fcfa0c961968</portal_section>
+                        <sys_created_by>LGOMEZ</sys_created_by>
+                        <sys_created_on>2018-07-18 20:58:54</sys_created_on>
+                        <sys_id>c224dc0bdb171b0040f8fcfa0c961943</sys_id>
+                        <sys_mod_count>1</sys_mod_count>
+                        <sys_updated_by>LGOMEZ</sys_updated_by>
+                        <sys_updated_on>2018-10-17 01:49:14</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title_align</name>
+                        <portal_section display_value="Created 07-18-2018 13:56:52">14b39c0bdb171b0040f8fcfa0c961968</portal_section>
+                        <sys_created_by>LGOMEZ</sys_created_by>
+                        <sys_created_on>2018-07-18 20:58:54</sys_created_on>
+                        <sys_id>c624dc0bdb171b0040f8fcfa0c961942</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>LGOMEZ</sys_updated_by>
+                        <sys_updated_on>2018-07-18 20:58:54</sys_updated_on>
+                        <value>center</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>filter_indicator</name>
+                        <portal_section display_value="Created 07-18-2018 13:56:52">14b39c0bdb171b0040f8fcfa0c961968</portal_section>
+                        <sys_created_by>LGOMEZ</sys_created_by>
+                        <sys_created_on>2018-07-18 20:58:54</sys_created_on>
+                        <sys_id>c624dc0bdb171b0040f8fcfa0c961943</sys_id>
+                        <sys_mod_count>1</sys_mod_count>
+                        <sys_updated_by>LGOMEZ</sys_updated_by>
+                        <sys_updated_on>2018-10-17 01:49:14</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>show_border</name>
+                        <portal_section display_value="Created 07-18-2018 13:56:52">14b39c0bdb171b0040f8fcfa0c961968</portal_section>
+                        <sys_created_by>LGOMEZ</sys_created_by>
+                        <sys_created_on>2018-07-18 20:58:54</sys_created_on>
+                        <sys_id>ca24dc0bdb171b0040f8fcfa0c961942</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>LGOMEZ</sys_updated_by>
+                        <sys_updated_on>2018-07-18 20:58:54</sys_updated_on>
+                        <value>false</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>real_time</name>
+                        <portal_section display_value="Created 07-18-2018 13:56:52">14b39c0bdb171b0040f8fcfa0c961968</portal_section>
+                        <sys_created_by>LGOMEZ</sys_created_by>
+                        <sys_created_on>2018-07-18 20:58:54</sys_created_on>
+                        <sys_id>ca24dc0bdb171b0040f8fcfa0c961943</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>LGOMEZ</sys_updated_by>
+                        <sys_updated_on>2018-07-18 20:58:54</sys_updated_on>
+                        <value>false</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>publisher_widget</name>
+                        <portal_section display_value="Created 07-18-2018 13:56:52">14b39c0bdb171b0040f8fcfa0c961968</portal_section>
+                        <sys_created_by>LGOMEZ</sys_created_by>
+                        <sys_created_on>2018-07-18 20:58:54</sys_created_on>
+                        <sys_id>ce24dc0bdb171b0040f8fcfa0c961942</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>LGOMEZ</sys_updated_by>
+                        <sys_updated_on>2018-07-18 20:58:54</sys_updated_on>
+                        <value>false</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_subscribe</name>
+                        <portal_section display_value="Created 07-18-2018 13:56:52">14b39c0bdb171b0040f8fcfa0c961968</portal_section>
+                        <sys_created_by>LGOMEZ</sys_created_by>
+                        <sys_created_on>2018-07-18 20:56:52</sys_created_on>
+                        <sys_id>e0b39c0bdb171b0040f8fcfa0c961969</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>LGOMEZ</sys_updated_by>
+                        <sys_updated_on>2018-07-18 20:56:52</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone/>
+                <offset/>
+                <page display_value="PA New Tab">57831c0bdb171b0040f8fcfa0c96190d</page>
+                <summary>EVS Trend by Week</summary>
+                <sys_created_by>LGOMEZ</sys_created_by>
+                <sys_created_on>2018-07-18 20:57:16</sys_created_on>
+                <sys_id>1ac39c0bdb171b0040f8fcfa0c961945</sys_id>
+                <sys_mod_count>1</sys_mod_count>
+                <sys_updated_by>LGOMEZ</sys_updated_by>
+                <sys_updated_on>2018-07-18 20:57:16</sys_updated_on>
+                <related_items_node>
+                    <sys_grid_canvas_pane action="INSERT_OR_UPDATE">
+                        <grid_canvas display_value="PA New Tab">e7831c0bdb171b0040f8fcfa0c96190e</grid_canvas>
+                        <height>10</height>
+                        <portal_widget display_value="Created 07-18-2018 13:57:16">1ac39c0bdb171b0040f8fcfa0c961945</portal_widget>
+                        <posx>6</posx>
+                        <posy>16</posy>
+                        <sys_class_name>sys_grid_canvas_pane</sys_class_name>
+                        <sys_created_by>LGOMEZ</sys_created_by>
+                        <sys_created_on>2018-07-18 20:57:16</sys_created_on>
+                        <sys_customer_update>false</sys_customer_update>
+                        <sys_id>56c39c0bdb171b0040f8fcfa0c961947</sys_id>
+                        <sys_mod_count>13</sys_mod_count>
+                        <sys_name/>
+                        <sys_package display_value="Environmental Services (EVS)" source="x_sthc_evs">06b61c59db66d34040f8fcfa0c96191d</sys_package>
+                        <sys_policy/>
+                        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+                        <sys_scope display_value="Environmental Services (EVS)">06b61c59db66d34040f8fcfa0c96191d</sys_scope>
+                        <sys_update_name>sys_grid_canvas_pane_56c39c0bdb171b0040f8fcfa0c961947</sys_update_name>
+                        <sys_updated_by>LGOMEZ</sys_updated_by>
+                        <sys_updated_on>2018-10-17 01:51:40</sys_updated_on>
+                        <width>6</width>
+                    </sys_grid_canvas_pane>
+                </related_items_node>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>help_text_window</name>
+                        <portal_section display_value="Created 07-18-2018 13:57:16">1ac39c0bdb171b0040f8fcfa0c961945</portal_section>
+                        <sys_created_by>LGOMEZ</sys_created_by>
+                        <sys_created_on>2018-07-18 20:57:16</sys_created_on>
+                        <sys_id>16c39c0bdb171b0040f8fcfa0c961946</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>LGOMEZ</sys_updated_by>
+                        <sys_updated_on>2018-07-18 20:57:16</sys_updated_on>
+                        <value>report_widget_description</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 07-18-2018 13:57:16">1ac39c0bdb171b0040f8fcfa0c961945</portal_section>
+                        <sys_created_by>LGOMEZ</sys_created_by>
+                        <sys_created_on>2018-07-18 20:57:16</sys_created_on>
+                        <sys_id>1ec39c0bdb171b0040f8fcfa0c961945</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>LGOMEZ</sys_updated_by>
+                        <sys_updated_on>2018-07-18 20:57:16</sys_updated_on>
+                        <value>c34d9ccddb5b574040f8fcfa0c961956</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 07-18-2018 13:57:16">1ac39c0bdb171b0040f8fcfa0c961945</portal_section>
+                        <sys_created_by>LGOMEZ</sys_created_by>
+                        <sys_created_on>2018-07-18 20:57:16</sys_created_on>
+                        <sys_id>52c39c0bdb171b0040f8fcfa0c961946</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>LGOMEZ</sys_updated_by>
+                        <sys_updated_on>2018-07-18 20:57:16</sys_updated_on>
+                        <value>com.glide.ui.portal.RenderReport</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 07-18-2018 13:57:16">1ac39c0bdb171b0040f8fcfa0c961945</portal_section>
+                        <sys_created_by>LGOMEZ</sys_created_by>
+                        <sys_created_on>2018-07-18 20:57:16</sys_created_on>
+                        <sys_id>5ec39c0bdb171b0040f8fcfa0c961946</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>LGOMEZ</sys_updated_by>
+                        <sys_updated_on>2018-07-18 20:57:16</sys_updated_on>
+                        <value>EVS Trend by Week</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>report_type</name>
+                        <portal_section display_value="Created 07-18-2018 13:57:16">1ac39c0bdb171b0040f8fcfa0c961945</portal_section>
+                        <sys_created_by>LGOMEZ</sys_created_by>
+                        <sys_created_on>2018-07-18 20:57:16</sys_created_on>
+                        <sys_id>9ac39c0bdb171b0040f8fcfa0c961946</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>LGOMEZ</sys_updated_by>
+                        <sys_updated_on>2018-07-18 20:57:16</sys_updated_on>
+                        <value>line_bar</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>show_title</name>
+                        <portal_section display_value="Created 07-18-2018 13:57:16">1ac39c0bdb171b0040f8fcfa0c961945</portal_section>
+                        <sys_created_by>LGOMEZ</sys_created_by>
+                        <sys_created_on>2018-10-17 01:49:29</sys_created_on>
+                        <sys_id>d0c5f488db5da78096b17d8bbf96198f</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>LGOMEZ</sys_updated_by>
+                        <sys_updated_on>2018-10-17 01:49:29</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>subscriber_widget</name>
+                        <portal_section display_value="Created 07-18-2018 13:57:16">1ac39c0bdb171b0040f8fcfa0c961945</portal_section>
+                        <sys_created_by>LGOMEZ</sys_created_by>
+                        <sys_created_on>2018-10-17 01:49:29</sys_created_on>
+                        <sys_id>d0c5f488db5da78096b17d8bbf961990</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>LGOMEZ</sys_updated_by>
+                        <sys_updated_on>2018-10-17 01:49:29</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title_align</name>
+                        <portal_section display_value="Created 07-18-2018 13:57:16">1ac39c0bdb171b0040f8fcfa0c961945</portal_section>
+                        <sys_created_by>LGOMEZ</sys_created_by>
+                        <sys_created_on>2018-10-17 01:49:29</sys_created_on>
+                        <sys_id>d4c5f488db5da78096b17d8bbf96198f</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>LGOMEZ</sys_updated_by>
+                        <sys_updated_on>2018-10-17 01:49:29</sys_updated_on>
+                        <value>left</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>filter_indicator</name>
+                        <portal_section display_value="Created 07-18-2018 13:57:16">1ac39c0bdb171b0040f8fcfa0c961945</portal_section>
+                        <sys_created_by>LGOMEZ</sys_created_by>
+                        <sys_created_on>2018-10-17 01:49:29</sys_created_on>
+                        <sys_id>d4c5f488db5da78096b17d8bbf961990</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>LGOMEZ</sys_updated_by>
+                        <sys_updated_on>2018-10-17 01:49:29</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_subscribe</name>
+                        <portal_section display_value="Created 07-18-2018 13:57:16">1ac39c0bdb171b0040f8fcfa0c961945</portal_section>
+                        <sys_created_by>LGOMEZ</sys_created_by>
+                        <sys_created_on>2018-07-18 20:57:16</sys_created_on>
+                        <sys_id>d6c39c0bdb171b0040f8fcfa0c961946</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>LGOMEZ</sys_updated_by>
+                        <sys_updated_on>2018-07-18 20:57:16</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>show_border</name>
+                        <portal_section display_value="Created 07-18-2018 13:57:16">1ac39c0bdb171b0040f8fcfa0c961945</portal_section>
+                        <sys_created_by>LGOMEZ</sys_created_by>
+                        <sys_created_on>2018-10-17 01:49:29</sys_created_on>
+                        <sys_id>d8c5f488db5da78096b17d8bbf96198f</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>LGOMEZ</sys_updated_by>
+                        <sys_updated_on>2018-10-17 01:49:29</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>real_time</name>
+                        <portal_section display_value="Created 07-18-2018 13:57:16">1ac39c0bdb171b0040f8fcfa0c961945</portal_section>
+                        <sys_created_by>LGOMEZ</sys_created_by>
+                        <sys_created_on>2018-10-17 01:49:29</sys_created_on>
+                        <sys_id>d8c5f488db5da78096b17d8bbf961990</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>LGOMEZ</sys_updated_by>
+                        <sys_updated_on>2018-10-17 01:49:29</sys_updated_on>
+                        <value>false</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>publisher_widget</name>
+                        <portal_section display_value="Created 07-18-2018 13:57:16">1ac39c0bdb171b0040f8fcfa0c961945</portal_section>
+                        <sys_created_by>LGOMEZ</sys_created_by>
+                        <sys_created_on>2018-10-17 01:49:29</sys_created_on>
+                        <sys_id>dcc5f488db5da78096b17d8bbf96198f</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>LGOMEZ</sys_updated_by>
+                        <sys_updated_on>2018-10-17 01:49:29</sys_updated_on>
+                        <value>false</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone/>
+                <offset/>
+                <page display_value="PA New Tab">57831c0bdb171b0040f8fcfa0c96190d</page>
+                <summary>EVS active by employee</summary>
+                <sys_created_by>LGOMEZ</sys_created_by>
+                <sys_created_on>2018-07-18 20:57:00</sys_created_on>
+                <sys_id>1eb31c0bdb171b0040f8fcfa0c96192b</sys_id>
+                <sys_mod_count>1</sys_mod_count>
+                <sys_updated_by>LGOMEZ</sys_updated_by>
+                <sys_updated_on>2018-07-18 20:57:00</sys_updated_on>
+                <related_items_node>
+                    <sys_grid_canvas_pane action="INSERT_OR_UPDATE">
+                        <grid_canvas display_value="PA New Tab">e7831c0bdb171b0040f8fcfa0c96190e</grid_canvas>
+                        <height>10</height>
+                        <portal_widget display_value="Created 07-18-2018 13:57:00">1eb31c0bdb171b0040f8fcfa0c96192b</portal_widget>
+                        <posx>0</posx>
+                        <posy>16</posy>
+                        <sys_class_name>sys_grid_canvas_pane</sys_class_name>
+                        <sys_created_by>LGOMEZ</sys_created_by>
+                        <sys_created_on>2018-07-18 20:57:00</sys_created_on>
+                        <sys_customer_update>false</sys_customer_update>
+                        <sys_id>52b39c0bdb171b0040f8fcfa0c9619e6</sys_id>
+                        <sys_mod_count>20</sys_mod_count>
+                        <sys_name/>
+                        <sys_package display_value="Environmental Services (EVS)" source="x_sthc_evs">06b61c59db66d34040f8fcfa0c96191d</sys_package>
+                        <sys_policy/>
+                        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+                        <sys_scope display_value="Environmental Services (EVS)">06b61c59db66d34040f8fcfa0c96191d</sys_scope>
+                        <sys_update_name>sys_grid_canvas_pane_52b39c0bdb171b0040f8fcfa0c9619e6</sys_update_name>
+                        <sys_updated_by>LGOMEZ</sys_updated_by>
+                        <sys_updated_on>2018-10-17 01:51:37</sys_updated_on>
+                        <width>6</width>
+                    </sys_grid_canvas_pane>
+                </related_items_node>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 07-18-2018 13:57:00">1eb31c0bdb171b0040f8fcfa0c96192b</portal_section>
+                        <sys_created_by>LGOMEZ</sys_created_by>
+                        <sys_created_on>2018-07-18 20:57:00</sys_created_on>
+                        <sys_id>12b31c0bdb171b0040f8fcfa0c96192c</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>LGOMEZ</sys_updated_by>
+                        <sys_updated_on>2018-07-18 20:57:00</sys_updated_on>
+                        <value>ea62dc87db171b0040f8fcfa0c961946</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>help_text_window</name>
+                        <portal_section display_value="Created 07-18-2018 13:57:00">1eb31c0bdb171b0040f8fcfa0c96192b</portal_section>
+                        <sys_created_by>LGOMEZ</sys_created_by>
+                        <sys_created_on>2018-07-18 20:57:00</sys_created_on>
+                        <sys_id>12b39c0bdb171b0040f8fcfa0c9619e5</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>LGOMEZ</sys_updated_by>
+                        <sys_updated_on>2018-07-18 20:57:00</sys_updated_on>
+                        <value>report_widget_description</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title_align</name>
+                        <portal_section display_value="Created 07-18-2018 13:57:00">1eb31c0bdb171b0040f8fcfa0c96192b</portal_section>
+                        <sys_created_by>LGOMEZ</sys_created_by>
+                        <sys_created_on>2018-10-17 01:49:41</sys_created_on>
+                        <sys_id>43c57c48db5da78096b17d8bbf9619c1</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>LGOMEZ</sys_updated_by>
+                        <sys_updated_on>2018-10-17 01:49:41</sys_updated_on>
+                        <value>left</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>filter_indicator</name>
+                        <portal_section display_value="Created 07-18-2018 13:57:00">1eb31c0bdb171b0040f8fcfa0c96192b</portal_section>
+                        <sys_created_by>LGOMEZ</sys_created_by>
+                        <sys_created_on>2018-10-17 01:49:41</sys_created_on>
+                        <sys_id>43c57c48db5da78096b17d8bbf9619c2</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>LGOMEZ</sys_updated_by>
+                        <sys_updated_on>2018-10-17 01:49:41</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>show_border</name>
+                        <portal_section display_value="Created 07-18-2018 13:57:00">1eb31c0bdb171b0040f8fcfa0c96192b</portal_section>
+                        <sys_created_by>LGOMEZ</sys_created_by>
+                        <sys_created_on>2018-10-17 01:49:41</sys_created_on>
+                        <sys_id>47c57c48db5da78096b17d8bbf9619c1</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>LGOMEZ</sys_updated_by>
+                        <sys_updated_on>2018-10-17 01:49:41</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>real_time</name>
+                        <portal_section display_value="Created 07-18-2018 13:57:00">1eb31c0bdb171b0040f8fcfa0c96192b</portal_section>
+                        <sys_created_by>LGOMEZ</sys_created_by>
+                        <sys_created_on>2018-10-17 01:49:41</sys_created_on>
+                        <sys_id>47c57c48db5da78096b17d8bbf9619c2</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>LGOMEZ</sys_updated_by>
+                        <sys_updated_on>2018-10-17 01:49:41</sys_updated_on>
+                        <value>false</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>publisher_widget</name>
+                        <portal_section display_value="Created 07-18-2018 13:57:00">1eb31c0bdb171b0040f8fcfa0c96192b</portal_section>
+                        <sys_created_by>LGOMEZ</sys_created_by>
+                        <sys_created_on>2018-10-17 01:49:41</sys_created_on>
+                        <sys_id>4bc57c48db5da78096b17d8bbf9619c1</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>LGOMEZ</sys_updated_by>
+                        <sys_updated_on>2018-10-17 01:49:41</sys_updated_on>
+                        <value>false</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>show_title</name>
+                        <portal_section display_value="Created 07-18-2018 13:57:00">1eb31c0bdb171b0040f8fcfa0c96192b</portal_section>
+                        <sys_created_by>LGOMEZ</sys_created_by>
+                        <sys_created_on>2018-10-17 01:49:41</sys_created_on>
+                        <sys_id>4fc57c48db5da78096b17d8bbf9619c0</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>LGOMEZ</sys_updated_by>
+                        <sys_updated_on>2018-10-17 01:49:41</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>subscriber_widget</name>
+                        <portal_section display_value="Created 07-18-2018 13:57:00">1eb31c0bdb171b0040f8fcfa0c96192b</portal_section>
+                        <sys_created_by>LGOMEZ</sys_created_by>
+                        <sys_created_on>2018-10-17 01:49:41</sys_created_on>
+                        <sys_id>4fc57c48db5da78096b17d8bbf9619c1</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>LGOMEZ</sys_updated_by>
+                        <sys_updated_on>2018-10-17 01:49:41</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 07-18-2018 13:57:00">1eb31c0bdb171b0040f8fcfa0c96192b</portal_section>
+                        <sys_created_by>LGOMEZ</sys_created_by>
+                        <sys_created_on>2018-07-18 20:57:00</sys_created_on>
+                        <sys_id>5ab39c0bdb171b0040f8fcfa0c9619e5</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>LGOMEZ</sys_updated_by>
+                        <sys_updated_on>2018-07-18 20:57:00</sys_updated_on>
+                        <value>EVS active by employee</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 07-18-2018 13:57:00">1eb31c0bdb171b0040f8fcfa0c96192b</portal_section>
+                        <sys_created_by>LGOMEZ</sys_created_by>
+                        <sys_created_on>2018-07-18 20:57:00</sys_created_on>
+                        <sys_id>5eb39c0bdb171b0040f8fcfa0c9619e4</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>LGOMEZ</sys_updated_by>
+                        <sys_updated_on>2018-07-18 20:57:00</sys_updated_on>
+                        <value>com.glide.ui.portal.RenderReport</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>report_type</name>
+                        <portal_section display_value="Created 07-18-2018 13:57:00">1eb31c0bdb171b0040f8fcfa0c96192b</portal_section>
+                        <sys_created_by>LGOMEZ</sys_created_by>
+                        <sys_created_on>2018-07-18 20:57:00</sys_created_on>
+                        <sys_id>96b39c0bdb171b0040f8fcfa0c9619e5</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>LGOMEZ</sys_updated_by>
+                        <sys_updated_on>2018-07-18 20:57:00</sys_updated_on>
+                        <value>horizontal_bar</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_subscribe</name>
+                        <portal_section display_value="Created 07-18-2018 13:57:00">1eb31c0bdb171b0040f8fcfa0c96192b</portal_section>
+                        <sys_created_by>LGOMEZ</sys_created_by>
+                        <sys_created_on>2018-07-18 20:57:00</sys_created_on>
+                        <sys_id>d2b39c0bdb171b0040f8fcfa0c9619e5</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>LGOMEZ</sys_updated_by>
+                        <sys_updated_on>2018-07-18 20:57:00</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone/>
+                <offset/>
+                <page display_value="PA New Tab">57831c0bdb171b0040f8fcfa0c96190d</page>
+                <summary>EVS Groups</summary>
+                <sys_created_by>LGOMEZ</sys_created_by>
+                <sys_created_on>2018-10-17 01:48:53</sys_created_on>
+                <sys_id>2395b488db5da78096b17d8bbf96197c</sys_id>
+                <sys_mod_count>1</sys_mod_count>
+                <sys_updated_by>LGOMEZ</sys_updated_by>
+                <sys_updated_on>2018-10-17 01:48:53</sys_updated_on>
+                <related_items_node>
+                    <sys_grid_canvas_pane action="INSERT_OR_UPDATE">
+                        <grid_canvas display_value="PA New Tab">e7831c0bdb171b0040f8fcfa0c96190e</grid_canvas>
+                        <height>7</height>
+                        <portal_widget display_value="Created 10-16-2018 18:48:53">2395b488db5da78096b17d8bbf96197c</portal_widget>
+                        <posx>0</posx>
+                        <posy>0</posy>
+                        <sys_class_name>sys_grid_canvas_pane</sys_class_name>
+                        <sys_created_by>LGOMEZ</sys_created_by>
+                        <sys_created_on>2018-10-17 01:48:53</sys_created_on>
+                        <sys_customer_update>false</sys_customer_update>
+                        <sys_id>2395b488db5da78096b17d8bbf96197e</sys_id>
+                        <sys_mod_count>2</sys_mod_count>
+                        <sys_name/>
+                        <sys_package display_value="Environmental Services (EVS)" source="x_sthc_evs">06b61c59db66d34040f8fcfa0c96191d</sys_package>
+                        <sys_policy/>
+                        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+                        <sys_scope display_value="Environmental Services (EVS)">06b61c59db66d34040f8fcfa0c96191d</sys_scope>
+                        <sys_update_name>sys_grid_canvas_pane_2395b488db5da78096b17d8bbf96197e</sys_update_name>
+                        <sys_updated_by>LGOMEZ</sys_updated_by>
+                        <sys_updated_on>2018-10-17 01:50:30</sys_updated_on>
+                        <width>4</width>
+                    </sys_grid_canvas_pane>
+                </related_items_node>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 10-16-2018 18:48:53">2395b488db5da78096b17d8bbf96197c</portal_section>
+                        <sys_created_by>LGOMEZ</sys_created_by>
+                        <sys_created_on>2018-10-17 01:48:53</sys_created_on>
+                        <sys_id>2795b488db5da78096b17d8bbf96197c</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>LGOMEZ</sys_updated_by>
+                        <sys_updated_on>2018-10-17 01:48:53</sys_updated_on>
+                        <value>6454b008db5da78096b17d8bbf9619ee</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>type</name>
+                        <portal_section display_value="Created 10-16-2018 18:48:53">2395b488db5da78096b17d8bbf96197c</portal_section>
+                        <sys_created_by>LGOMEZ</sys_created_by>
+                        <sys_created_on>2018-10-17 01:48:53</sys_created_on>
+                        <sys_id>2b95b488db5da78096b17d8bbf96197d</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>LGOMEZ</sys_updated_by>
+                        <sys_updated_on>2018-10-17 01:48:53</sys_updated_on>
+                        <value>2</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_publish</name>
+                        <portal_section display_value="Created 10-16-2018 18:48:53">2395b488db5da78096b17d8bbf96197c</portal_section>
+                        <sys_created_by>LGOMEZ</sys_created_by>
+                        <sys_created_on>2018-10-17 01:48:53</sys_created_on>
+                        <sys_id>2f95b488db5da78096b17d8bbf96197c</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>LGOMEZ</sys_updated_by>
+                        <sys_updated_on>2018-10-17 01:48:53</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 10-16-2018 18:48:53">2395b488db5da78096b17d8bbf96197c</portal_section>
+                        <sys_created_by>LGOMEZ</sys_created_by>
+                        <sys_created_on>2018-10-17 01:48:53</sys_created_on>
+                        <sys_id>6b95b488db5da78096b17d8bbf96197c</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>LGOMEZ</sys_updated_by>
+                        <sys_updated_on>2018-10-17 01:48:53</sys_updated_on>
+                        <value>com.glideapp.home.RenderHomepagePublishers</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 10-16-2018 18:48:53">2395b488db5da78096b17d8bbf96197c</portal_section>
+                        <sys_created_by>LGOMEZ</sys_created_by>
+                        <sys_created_on>2018-10-17 01:48:53</sys_created_on>
+                        <sys_id>a395b488db5da78096b17d8bbf96197d</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>LGOMEZ</sys_updated_by>
+                        <sys_updated_on>2018-10-17 01:48:53</sys_updated_on>
+                        <value>EVS Groups</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>publisher_widget</name>
+                        <portal_section display_value="Created 10-16-2018 18:48:53">2395b488db5da78096b17d8bbf96197c</portal_section>
+                        <sys_created_by>LGOMEZ</sys_created_by>
+                        <sys_created_on>2018-10-17 01:48:53</sys_created_on>
+                        <sys_id>ef95b488db5da78096b17d8bbf96197c</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>LGOMEZ</sys_updated_by>
+                        <sys_updated_on>2018-10-17 01:48:53</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone/>
+                <offset/>
+                <page display_value="PA New Tab">57831c0bdb171b0040f8fcfa0c96190d</page>
+                <summary>EVS Active by Priority</summary>
+                <sys_created_by>LGOMEZ</sys_created_by>
+                <sys_created_on>2018-07-18 20:56:46</sys_created_on>
+                <sys_id>c3a3180bdb171b0040f8fcfa0c96192a</sys_id>
+                <sys_mod_count>1</sys_mod_count>
+                <sys_updated_by>LGOMEZ</sys_updated_by>
+                <sys_updated_on>2018-07-18 20:56:46</sys_updated_on>
+                <related_items_node>
+                    <sys_grid_canvas_pane action="INSERT_OR_UPDATE">
+                        <grid_canvas display_value="PA New Tab">e7831c0bdb171b0040f8fcfa0c96190e</grid_canvas>
+                        <height>9</height>
+                        <portal_widget display_value="Created 07-18-2018 13:56:46">c3a3180bdb171b0040f8fcfa0c96192a</portal_widget>
+                        <posx>0</posx>
+                        <posy>7</posy>
+                        <sys_class_name>sys_grid_canvas_pane</sys_class_name>
+                        <sys_created_by>LGOMEZ</sys_created_by>
+                        <sys_created_on>2018-07-18 20:56:46</sys_created_on>
+                        <sys_customer_update>false</sys_customer_update>
+                        <sys_id>03a3180bdb171b0040f8fcfa0c96192c</sys_id>
+                        <sys_mod_count>25</sys_mod_count>
+                        <sys_name/>
+                        <sys_package display_value="Environmental Services (EVS)" source="x_sthc_evs">06b61c59db66d34040f8fcfa0c96191d</sys_package>
+                        <sys_policy/>
+                        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+                        <sys_scope display_value="Environmental Services (EVS)">06b61c59db66d34040f8fcfa0c96191d</sys_scope>
+                        <sys_update_name>sys_grid_canvas_pane_03a3180bdb171b0040f8fcfa0c96192c</sys_update_name>
+                        <sys_updated_by>LGOMEZ</sys_updated_by>
+                        <sys_updated_on>2018-10-17 01:51:37</sys_updated_on>
+                        <width>6</width>
+                    </sys_grid_canvas_pane>
+                </related_items_node>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 07-18-2018 13:56:46">c3a3180bdb171b0040f8fcfa0c96192a</portal_section>
+                        <sys_created_by>LGOMEZ</sys_created_by>
+                        <sys_created_on>2018-07-18 20:56:46</sys_created_on>
+                        <sys_id>0ba3180bdb171b0040f8fcfa0c96192b</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>LGOMEZ</sys_updated_by>
+                        <sys_updated_on>2018-07-18 20:56:46</sys_updated_on>
+                        <value>EVS Active by Priority</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 07-18-2018 13:56:46">c3a3180bdb171b0040f8fcfa0c96192a</portal_section>
+                        <sys_created_by>LGOMEZ</sys_created_by>
+                        <sys_created_on>2018-07-18 20:56:46</sys_created_on>
+                        <sys_id>0fa3180bdb171b0040f8fcfa0c96192a</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>LGOMEZ</sys_updated_by>
+                        <sys_updated_on>2018-07-18 20:56:46</sys_updated_on>
+                        <value>com.glide.ui.portal.RenderReport</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>report_type</name>
+                        <portal_section display_value="Created 07-18-2018 13:56:46">c3a3180bdb171b0040f8fcfa0c96192a</portal_section>
+                        <sys_created_by>LGOMEZ</sys_created_by>
+                        <sys_created_on>2018-07-18 20:56:46</sys_created_on>
+                        <sys_id>47a3180bdb171b0040f8fcfa0c96192b</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>LGOMEZ</sys_updated_by>
+                        <sys_updated_on>2018-07-18 20:56:46</sys_updated_on>
+                        <value>semi_donut</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_subscribe</name>
+                        <portal_section display_value="Created 07-18-2018 13:56:46">c3a3180bdb171b0040f8fcfa0c96192a</portal_section>
+                        <sys_created_by>LGOMEZ</sys_created_by>
+                        <sys_created_on>2018-07-18 20:56:46</sys_created_on>
+                        <sys_id>83a3180bdb171b0040f8fcfa0c96192b</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>LGOMEZ</sys_updated_by>
+                        <sys_updated_on>2018-07-18 20:56:46</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 07-18-2018 13:56:46">c3a3180bdb171b0040f8fcfa0c96192a</portal_section>
+                        <sys_created_by>LGOMEZ</sys_created_by>
+                        <sys_created_on>2018-07-18 20:56:46</sys_created_on>
+                        <sys_id>c7a3180bdb171b0040f8fcfa0c96192a</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>LGOMEZ</sys_updated_by>
+                        <sys_updated_on>2018-07-18 20:56:46</sys_updated_on>
+                        <value>82e2d8c7db171b0040f8fcfa0c961970</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>help_text_window</name>
+                        <portal_section display_value="Created 07-18-2018 13:56:46">c3a3180bdb171b0040f8fcfa0c96192a</portal_section>
+                        <sys_created_by>LGOMEZ</sys_created_by>
+                        <sys_created_on>2018-07-18 20:56:46</sys_created_on>
+                        <sys_id>cfa3180bdb171b0040f8fcfa0c96192a</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>LGOMEZ</sys_updated_by>
+                        <sys_updated_on>2018-07-18 20:56:46</sys_updated_on>
+                        <value>report_widget_description</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title_align</name>
+                        <portal_section display_value="Created 07-18-2018 13:56:46">c3a3180bdb171b0040f8fcfa0c96192a</portal_section>
+                        <sys_created_by>LGOMEZ</sys_created_by>
+                        <sys_created_on>2018-07-18 20:58:49</sys_created_on>
+                        <sys_id>f0249c0bdb171b0040f8fcfa0c9619eb</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>LGOMEZ</sys_updated_by>
+                        <sys_updated_on>2018-07-18 20:58:49</sys_updated_on>
+                        <value>center</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>filter_indicator</name>
+                        <portal_section display_value="Created 07-18-2018 13:56:46">c3a3180bdb171b0040f8fcfa0c96192a</portal_section>
+                        <sys_created_by>LGOMEZ</sys_created_by>
+                        <sys_created_on>2018-07-18 20:58:49</sys_created_on>
+                        <sys_id>f0249c0bdb171b0040f8fcfa0c9619ec</sys_id>
+                        <sys_mod_count>1</sys_mod_count>
+                        <sys_updated_by>LGOMEZ</sys_updated_by>
+                        <sys_updated_on>2018-10-17 01:49:18</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>show_border</name>
+                        <portal_section display_value="Created 07-18-2018 13:56:46">c3a3180bdb171b0040f8fcfa0c96192a</portal_section>
+                        <sys_created_by>LGOMEZ</sys_created_by>
+                        <sys_created_on>2018-07-18 20:58:49</sys_created_on>
+                        <sys_id>f4249c0bdb171b0040f8fcfa0c9619eb</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>LGOMEZ</sys_updated_by>
+                        <sys_updated_on>2018-07-18 20:58:49</sys_updated_on>
+                        <value>false</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>real_time</name>
+                        <portal_section display_value="Created 07-18-2018 13:56:46">c3a3180bdb171b0040f8fcfa0c96192a</portal_section>
+                        <sys_created_by>LGOMEZ</sys_created_by>
+                        <sys_created_on>2018-07-18 20:58:49</sys_created_on>
+                        <sys_id>f4249c0bdb171b0040f8fcfa0c9619ec</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>LGOMEZ</sys_updated_by>
+                        <sys_updated_on>2018-07-18 20:58:49</sys_updated_on>
+                        <value>false</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>publisher_widget</name>
+                        <portal_section display_value="Created 07-18-2018 13:56:46">c3a3180bdb171b0040f8fcfa0c96192a</portal_section>
+                        <sys_created_by>LGOMEZ</sys_created_by>
+                        <sys_created_on>2018-07-18 20:58:49</sys_created_on>
+                        <sys_id>f8249c0bdb171b0040f8fcfa0c9619eb</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>LGOMEZ</sys_updated_by>
+                        <sys_updated_on>2018-07-18 20:58:49</sys_updated_on>
+                        <value>false</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>show_title</name>
+                        <portal_section display_value="Created 07-18-2018 13:56:46">c3a3180bdb171b0040f8fcfa0c96192a</portal_section>
+                        <sys_created_by>LGOMEZ</sys_created_by>
+                        <sys_created_on>2018-07-18 20:58:49</sys_created_on>
+                        <sys_id>fc249c0bdb171b0040f8fcfa0c9619ea</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>LGOMEZ</sys_updated_by>
+                        <sys_updated_on>2018-07-18 20:58:49</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>subscriber_widget</name>
+                        <portal_section display_value="Created 07-18-2018 13:56:46">c3a3180bdb171b0040f8fcfa0c96192a</portal_section>
+                        <sys_created_by>LGOMEZ</sys_created_by>
+                        <sys_created_on>2018-07-18 20:58:49</sys_created_on>
+                        <sys_id>fc249c0bdb171b0040f8fcfa0c9619eb</sys_id>
+                        <sys_mod_count>1</sys_mod_count>
+                        <sys_updated_by>LGOMEZ</sys_updated_by>
+                        <sys_updated_on>2018-10-17 01:49:18</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone/>
+                <offset/>
+                <page display_value="PA New Tab">57831c0bdb171b0040f8fcfa0c96190d</page>
+                <summary>EVS active by category</summary>
+                <sys_created_by>LGOMEZ</sys_created_by>
+                <sys_created_on>2018-07-18 20:57:04</sys_created_on>
+                <sys_id>d7b39c0bdb171b0040f8fcfa0c96196b</sys_id>
+                <sys_mod_count>1</sys_mod_count>
+                <sys_updated_by>LGOMEZ</sys_updated_by>
+                <sys_updated_on>2018-07-18 20:57:04</sys_updated_on>
+                <related_items_node>
+                    <sys_grid_canvas_pane action="INSERT_OR_UPDATE">
+                        <grid_canvas display_value="PA New Tab">e7831c0bdb171b0040f8fcfa0c96190e</grid_canvas>
+                        <height>9</height>
+                        <portal_widget display_value="Created 07-18-2018 13:57:04">d7b39c0bdb171b0040f8fcfa0c96196b</portal_widget>
+                        <posx>6</posx>
+                        <posy>7</posy>
+                        <sys_class_name>sys_grid_canvas_pane</sys_class_name>
+                        <sys_created_by>LGOMEZ</sys_created_by>
+                        <sys_created_on>2018-07-18 20:57:04</sys_created_on>
+                        <sys_customer_update>false</sys_customer_update>
+                        <sys_id>17b39c0bdb171b0040f8fcfa0c96196d</sys_id>
+                        <sys_mod_count>13</sys_mod_count>
+                        <sys_name/>
+                        <sys_package display_value="Environmental Services (EVS)" source="x_sthc_evs">06b61c59db66d34040f8fcfa0c96191d</sys_package>
+                        <sys_policy/>
+                        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+                        <sys_scope display_value="Environmental Services (EVS)">06b61c59db66d34040f8fcfa0c96191d</sys_scope>
+                        <sys_update_name>sys_grid_canvas_pane_17b39c0bdb171b0040f8fcfa0c96196d</sys_update_name>
+                        <sys_updated_by>LGOMEZ</sys_updated_by>
+                        <sys_updated_on>2018-10-17 01:50:58</sys_updated_on>
+                        <width>6</width>
+                    </sys_grid_canvas_pane>
+                </related_items_node>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 07-18-2018 13:57:04">d7b39c0bdb171b0040f8fcfa0c96196b</portal_section>
+                        <sys_created_by>LGOMEZ</sys_created_by>
+                        <sys_created_on>2018-07-18 20:57:04</sys_created_on>
+                        <sys_id>13b39c0bdb171b0040f8fcfa0c96196c</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>LGOMEZ</sys_updated_by>
+                        <sys_updated_on>2018-07-18 20:57:04</sys_updated_on>
+                        <value>com.glide.ui.portal.RenderReport</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 07-18-2018 13:57:04">d7b39c0bdb171b0040f8fcfa0c96196b</portal_section>
+                        <sys_created_by>LGOMEZ</sys_created_by>
+                        <sys_created_on>2018-07-18 20:57:04</sys_created_on>
+                        <sys_id>1fb39c0bdb171b0040f8fcfa0c96196c</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>LGOMEZ</sys_updated_by>
+                        <sys_updated_on>2018-07-18 20:57:04</sys_updated_on>
+                        <value>EVS active by category</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>report_type</name>
+                        <portal_section display_value="Created 07-18-2018 13:57:04">d7b39c0bdb171b0040f8fcfa0c96196b</portal_section>
+                        <sys_created_by>LGOMEZ</sys_created_by>
+                        <sys_created_on>2018-07-18 20:57:04</sys_created_on>
+                        <sys_id>5bb39c0bdb171b0040f8fcfa0c96196c</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>LGOMEZ</sys_updated_by>
+                        <sys_updated_on>2018-07-18 20:57:04</sys_updated_on>
+                        <value>donut</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_subscribe</name>
+                        <portal_section display_value="Created 07-18-2018 13:57:04">d7b39c0bdb171b0040f8fcfa0c96196b</portal_section>
+                        <sys_created_by>LGOMEZ</sys_created_by>
+                        <sys_created_on>2018-07-18 20:57:04</sys_created_on>
+                        <sys_id>97b39c0bdb171b0040f8fcfa0c96196c</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>LGOMEZ</sys_updated_by>
+                        <sys_updated_on>2018-07-18 20:57:04</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>filter_indicator</name>
+                        <portal_section display_value="Created 07-18-2018 13:57:04">d7b39c0bdb171b0040f8fcfa0c96196b</portal_section>
+                        <sys_created_by>LGOMEZ</sys_created_by>
+                        <sys_created_on>2018-10-17 01:49:34</sys_created_on>
+                        <sys_id>a1c5b0c8db5da78096b17d8bbf961955</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>LGOMEZ</sys_updated_by>
+                        <sys_updated_on>2018-10-17 01:49:34</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>show_title</name>
+                        <portal_section display_value="Created 07-18-2018 13:57:04">d7b39c0bdb171b0040f8fcfa0c96196b</portal_section>
+                        <sys_created_by>LGOMEZ</sys_created_by>
+                        <sys_created_on>2018-10-17 01:49:34</sys_created_on>
+                        <sys_id>a1c5fc48db5da78096b17d8bbf96197a</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>LGOMEZ</sys_updated_by>
+                        <sys_updated_on>2018-10-17 01:49:34</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>real_time</name>
+                        <portal_section display_value="Created 07-18-2018 13:57:04">d7b39c0bdb171b0040f8fcfa0c96196b</portal_section>
+                        <sys_created_by>LGOMEZ</sys_created_by>
+                        <sys_created_on>2018-10-17 01:49:34</sys_created_on>
+                        <sys_id>a5c5b0c8db5da78096b17d8bbf961955</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>LGOMEZ</sys_updated_by>
+                        <sys_updated_on>2018-10-17 01:49:34</sys_updated_on>
+                        <value>false</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title_align</name>
+                        <portal_section display_value="Created 07-18-2018 13:57:04">d7b39c0bdb171b0040f8fcfa0c96196b</portal_section>
+                        <sys_created_by>LGOMEZ</sys_created_by>
+                        <sys_created_on>2018-10-17 01:49:34</sys_created_on>
+                        <sys_id>a5c5fc48db5da78096b17d8bbf96197a</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>LGOMEZ</sys_updated_by>
+                        <sys_updated_on>2018-10-17 01:49:34</sys_updated_on>
+                        <value>left</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>show_border</name>
+                        <portal_section display_value="Created 07-18-2018 13:57:04">d7b39c0bdb171b0040f8fcfa0c96196b</portal_section>
+                        <sys_created_by>LGOMEZ</sys_created_by>
+                        <sys_created_on>2018-10-17 01:49:34</sys_created_on>
+                        <sys_id>a9c5fc48db5da78096b17d8bbf96197a</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>LGOMEZ</sys_updated_by>
+                        <sys_updated_on>2018-10-17 01:49:34</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>subscriber_widget</name>
+                        <portal_section display_value="Created 07-18-2018 13:57:04">d7b39c0bdb171b0040f8fcfa0c96196b</portal_section>
+                        <sys_created_by>LGOMEZ</sys_created_by>
+                        <sys_created_on>2018-10-17 01:49:34</sys_created_on>
+                        <sys_id>adc5b0c8db5da78096b17d8bbf961954</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>LGOMEZ</sys_updated_by>
+                        <sys_updated_on>2018-10-17 01:49:34</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>publisher_widget</name>
+                        <portal_section display_value="Created 07-18-2018 13:57:04">d7b39c0bdb171b0040f8fcfa0c96196b</portal_section>
+                        <sys_created_by>LGOMEZ</sys_created_by>
+                        <sys_created_on>2018-10-17 01:49:34</sys_created_on>
+                        <sys_id>adc5fc48db5da78096b17d8bbf96197a</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>LGOMEZ</sys_updated_by>
+                        <sys_updated_on>2018-10-17 01:49:34</sys_updated_on>
+                        <value>false</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>help_text_window</name>
+                        <portal_section display_value="Created 07-18-2018 13:57:04">d7b39c0bdb171b0040f8fcfa0c96196b</portal_section>
+                        <sys_created_by>LGOMEZ</sys_created_by>
+                        <sys_created_on>2018-07-18 20:57:04</sys_created_on>
+                        <sys_id>d3b39c0bdb171b0040f8fcfa0c96196c</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>LGOMEZ</sys_updated_by>
+                        <sys_updated_on>2018-07-18 20:57:04</sys_updated_on>
+                        <value>report_widget_description</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 07-18-2018 13:57:04">d7b39c0bdb171b0040f8fcfa0c96196b</portal_section>
+                        <sys_created_by>LGOMEZ</sys_created_by>
+                        <sys_created_on>2018-07-18 20:57:04</sys_created_on>
+                        <sys_id>dbb39c0bdb171b0040f8fcfa0c96196b</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>LGOMEZ</sys_updated_by>
+                        <sys_updated_on>2018-07-18 20:57:04</sys_updated_on>
+                        <value>e9321447db171b0040f8fcfa0c96198a</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone/>
+                <offset/>
+                <page display_value="PA New Tab">57831c0bdb171b0040f8fcfa0c96190d</page>
+                <summary>EVS Active and Breached</summary>
+                <sys_created_by>LGOMEZ</sys_created_by>
+                <sys_created_on>2018-07-18 20:56:41</sys_created_on>
+                <sys_id>e5a3dcc7db171b0040f8fcfa0c96190d</sys_id>
+                <sys_mod_count>1</sys_mod_count>
+                <sys_updated_by>LGOMEZ</sys_updated_by>
+                <sys_updated_on>2018-07-18 20:56:41</sys_updated_on>
+                <related_items_node>
+                    <sys_grid_canvas_pane action="INSERT_OR_UPDATE">
+                        <grid_canvas display_value="PA New Tab">e7831c0bdb171b0040f8fcfa0c96190e</grid_canvas>
+                        <height>7</height>
+                        <portal_widget display_value="Created 07-18-2018 13:56:41">e5a3dcc7db171b0040f8fcfa0c96190d</portal_widget>
+                        <posx>8</posx>
+                        <posy>0</posy>
+                        <sys_class_name>sys_grid_canvas_pane</sys_class_name>
+                        <sys_created_by>LGOMEZ</sys_created_by>
+                        <sys_created_on>2018-07-18 20:56:41</sys_created_on>
+                        <sys_customer_update>false</sys_customer_update>
+                        <sys_id>a5a35c0bdb171b0040f8fcfa0c96197e</sys_id>
+                        <sys_mod_count>22</sys_mod_count>
+                        <sys_name/>
+                        <sys_package display_value="Environmental Services (EVS)" source="x_sthc_evs">06b61c59db66d34040f8fcfa0c96191d</sys_package>
+                        <sys_policy/>
+                        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+                        <sys_scope display_value="Environmental Services (EVS)">06b61c59db66d34040f8fcfa0c96191d</sys_scope>
+                        <sys_update_name>sys_grid_canvas_pane_a5a35c0bdb171b0040f8fcfa0c96197e</sys_update_name>
+                        <sys_updated_by>LGOMEZ</sys_updated_by>
+                        <sys_updated_on>2018-10-17 01:51:49</sys_updated_on>
+                        <width>4</width>
+                    </sys_grid_canvas_pane>
+                </related_items_node>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>publisher_widget</name>
+                        <portal_section display_value="Created 07-18-2018 13:56:41">e5a3dcc7db171b0040f8fcfa0c96190d</portal_section>
+                        <sys_created_by>LGOMEZ</sys_created_by>
+                        <sys_created_on>2018-07-18 20:58:58</sys_created_on>
+                        <sys_id>0324180bdb171b0040f8fcfa0c961985</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>LGOMEZ</sys_updated_by>
+                        <sys_updated_on>2018-07-18 20:58:58</sys_updated_on>
+                        <value>false</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>show_title</name>
+                        <portal_section display_value="Created 07-18-2018 13:56:41">e5a3dcc7db171b0040f8fcfa0c96190d</portal_section>
+                        <sys_created_by>LGOMEZ</sys_created_by>
+                        <sys_created_on>2018-07-18 20:58:58</sys_created_on>
+                        <sys_id>0724180bdb171b0040f8fcfa0c961984</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>LGOMEZ</sys_updated_by>
+                        <sys_updated_on>2018-07-18 20:58:58</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>subscriber_widget</name>
+                        <portal_section display_value="Created 07-18-2018 13:56:41">e5a3dcc7db171b0040f8fcfa0c96190d</portal_section>
+                        <sys_created_by>LGOMEZ</sys_created_by>
+                        <sys_created_on>2018-07-18 20:58:58</sys_created_on>
+                        <sys_id>0724180bdb171b0040f8fcfa0c961985</sys_id>
+                        <sys_mod_count>1</sys_mod_count>
+                        <sys_updated_by>LGOMEZ</sys_updated_by>
+                        <sys_updated_on>2018-10-17 01:49:23</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title_align</name>
+                        <portal_section display_value="Created 07-18-2018 13:56:41">e5a3dcc7db171b0040f8fcfa0c96190d</portal_section>
+                        <sys_created_by>LGOMEZ</sys_created_by>
+                        <sys_created_on>2018-07-18 20:58:58</sys_created_on>
+                        <sys_id>0b24180bdb171b0040f8fcfa0c961984</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>LGOMEZ</sys_updated_by>
+                        <sys_updated_on>2018-07-18 20:58:58</sys_updated_on>
+                        <value>center</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>filter_indicator</name>
+                        <portal_section display_value="Created 07-18-2018 13:56:41">e5a3dcc7db171b0040f8fcfa0c96190d</portal_section>
+                        <sys_created_by>LGOMEZ</sys_created_by>
+                        <sys_created_on>2018-07-18 20:58:58</sys_created_on>
+                        <sys_id>0b24180bdb171b0040f8fcfa0c961985</sys_id>
+                        <sys_mod_count>1</sys_mod_count>
+                        <sys_updated_by>LGOMEZ</sys_updated_by>
+                        <sys_updated_on>2018-10-17 01:49:23</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>show_border</name>
+                        <portal_section display_value="Created 07-18-2018 13:56:41">e5a3dcc7db171b0040f8fcfa0c96190d</portal_section>
+                        <sys_created_by>LGOMEZ</sys_created_by>
+                        <sys_created_on>2018-07-18 20:58:58</sys_created_on>
+                        <sys_id>0f24180bdb171b0040f8fcfa0c961984</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>LGOMEZ</sys_updated_by>
+                        <sys_updated_on>2018-07-18 20:58:58</sys_updated_on>
+                        <value>false</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>real_time</name>
+                        <portal_section display_value="Created 07-18-2018 13:56:41">e5a3dcc7db171b0040f8fcfa0c96190d</portal_section>
+                        <sys_created_by>LGOMEZ</sys_created_by>
+                        <sys_created_on>2018-07-18 20:58:58</sys_created_on>
+                        <sys_id>0f24180bdb171b0040f8fcfa0c961985</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>LGOMEZ</sys_updated_by>
+                        <sys_updated_on>2018-07-18 20:58:58</sys_updated_on>
+                        <value>false</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 07-18-2018 13:56:41">e5a3dcc7db171b0040f8fcfa0c96190d</portal_section>
+                        <sys_created_by>LGOMEZ</sys_created_by>
+                        <sys_created_on>2018-07-18 20:56:41</sys_created_on>
+                        <sys_id>29a35c0bdb171b0040f8fcfa0c96197d</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>LGOMEZ</sys_updated_by>
+                        <sys_updated_on>2018-07-18 20:56:41</sys_updated_on>
+                        <value>EVS Active and Breached</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 07-18-2018 13:56:41">e5a3dcc7db171b0040f8fcfa0c96190d</portal_section>
+                        <sys_created_by>LGOMEZ</sys_created_by>
+                        <sys_created_on>2018-07-18 20:56:41</sys_created_on>
+                        <sys_id>2da35c0bdb171b0040f8fcfa0c96197c</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>LGOMEZ</sys_updated_by>
+                        <sys_updated_on>2018-07-18 20:56:41</sys_updated_on>
+                        <value>com.glide.ui.portal.RenderReport</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 07-18-2018 13:56:41">e5a3dcc7db171b0040f8fcfa0c96190d</portal_section>
+                        <sys_created_by>LGOMEZ</sys_created_by>
+                        <sys_created_on>2018-07-18 20:56:41</sys_created_on>
+                        <sys_id>61a35c0bdb171b0040f8fcfa0c96197c</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>LGOMEZ</sys_updated_by>
+                        <sys_updated_on>2018-07-18 20:56:41</sys_updated_on>
+                        <value>78439cc7db171b0040f8fcfa0c96194b</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>report_type</name>
+                        <portal_section display_value="Created 07-18-2018 13:56:41">e5a3dcc7db171b0040f8fcfa0c96190d</portal_section>
+                        <sys_created_by>LGOMEZ</sys_created_by>
+                        <sys_created_on>2018-07-18 20:56:41</sys_created_on>
+                        <sys_id>65a35c0bdb171b0040f8fcfa0c96197d</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>LGOMEZ</sys_updated_by>
+                        <sys_updated_on>2018-07-18 20:56:41</sys_updated_on>
+                        <value>single_score</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_subscribe</name>
+                        <portal_section display_value="Created 07-18-2018 13:56:41">e5a3dcc7db171b0040f8fcfa0c96190d</portal_section>
+                        <sys_created_by>LGOMEZ</sys_created_by>
+                        <sys_created_on>2018-07-18 20:56:41</sys_created_on>
+                        <sys_id>a1a35c0bdb171b0040f8fcfa0c96197d</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>LGOMEZ</sys_updated_by>
+                        <sys_updated_on>2018-07-18 20:56:41</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>help_text_window</name>
+                        <portal_section display_value="Created 07-18-2018 13:56:41">e5a3dcc7db171b0040f8fcfa0c96190d</portal_section>
+                        <sys_created_by>LGOMEZ</sys_created_by>
+                        <sys_created_on>2018-07-18 20:56:41</sys_created_on>
+                        <sys_id>eda35c0bdb171b0040f8fcfa0c96197c</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>LGOMEZ</sys_updated_by>
+                        <sys_updated_on>2018-07-18 20:56:41</sys_updated_on>
+                        <value>report_widget_description</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+        </related_items_node>
+    </sys_portal_page>
+</record_update>

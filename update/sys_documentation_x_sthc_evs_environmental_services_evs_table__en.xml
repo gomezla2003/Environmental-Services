@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="" label="Environmental Services (EVS) Table" language="en" table="x_sthc_evs_environmental_services_evs_table">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>Environmental Services (EVS) Table</label>
+            <language>en</language>
+            <name>x_sthc_evs_environmental_services_evs_table</name>
+            <plural>Environmental Services (EVS) Tables</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>LGOMEZ</sys_created_by>
+            <sys_created_on>2018-06-06 03:53:43</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>d3b65099db66d34040f8fcfa0c96197a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Environmental Services (EVS) Table</sys_name>
+            <sys_package display_value="Environmental Services (EVS)" source="x_sthc_evs">06b61c59db66d34040f8fcfa0c96191d</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Environmental Services (EVS)">06b61c59db66d34040f8fcfa0c96191d</sys_scope>
+            <sys_update_name>sys_documentation_x_sthc_evs_environmental_services_evs_table__en</sys_update_name>
+            <sys_updated_by>LGOMEZ</sys_updated_by>
+            <sys_updated_on>2018-06-06 03:53:43</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
