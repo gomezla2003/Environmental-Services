@@ -118,10 +118,10 @@
             <sum>false</sum>
             <sys_class_name>sys_ui_list</sys_class_name>
             <sys_created_by>LGOMEZ</sys_created_by>
-            <sys_created_on>2018-07-12 16:42:17</sys_created_on>
+            <sys_created_on>2018-10-22 19:36:31</sys_created_on>
             <sys_customer_update>false</sys_customer_update>
             <sys_domain>global</sys_domain>
-            <sys_id>68efd8c1db9b574040f8fcfa0c9619ab</sys_id>
+            <sys_id>1fe91a39dbd127c040f8fcfa0c961964</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name/>
             <sys_package/>
@@ -130,7 +130,7 @@
             <sys_scope display_value="Environmental Services (EVS)">06b61c59db66d34040f8fcfa0c96191d</sys_scope>
             <sys_update_name/>
             <sys_updated_by>LGOMEZ</sys_updated_by>
-            <sys_updated_on>2018-07-12 16:42:17</sys_updated_on>
+            <sys_updated_on>2018-10-22 19:36:31</sys_updated_on>
             <sys_user display_value="Louie Gomez">9dd736c46fd4710068ceda0cbb3ee476</sys_user>
             <view display_value="Default view" name="NULL">Default view</view>
             <view_name/>

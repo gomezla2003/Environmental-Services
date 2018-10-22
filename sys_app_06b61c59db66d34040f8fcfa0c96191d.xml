@@ -16,21 +16,21 @@
         <scoped_administration>false</scoped_administration>
         <short_description/>
         <source>x_sthc_evs</source>
-        <store_correlation_id/>
+        <store_correlation_id>REPOAPP0000082895</store_correlation_id>
         <store_url/>
         <sys_class_name>sys_app</sys_class_name>
         <sys_code/>
         <sys_created_by>LGOMEZ</sys_created_by>
         <sys_created_on>2018-06-06 03:53:42</sys_created_on>
         <sys_id>06b61c59db66d34040f8fcfa0c96191d</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>3</sys_mod_count>
         <sys_updated_by>LGOMEZ</sys_updated_by>
-        <sys_updated_on>2018-06-06 03:53:42</sys_updated_on>
+        <sys_updated_on>2018-10-22 19:50:24</sys_updated_on>
         <template/>
         <trackable>true</trackable>
         <user_role display_value="x_sthc_evs.user" name="x_sthc_evs.user">5ab61099db66d34040f8fcfa0c9619ef</user_role>
         <vendor/>
         <vendor_prefix/>
-        <version>1.0.0</version>
+        <version>1.0.2</version>
     </sys_app>
 </record_update>

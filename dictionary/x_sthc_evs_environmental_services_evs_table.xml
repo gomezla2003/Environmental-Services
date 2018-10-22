@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <database>
-    <element attributes="live_feed=true" audit="true" extends="task" label="Environmental Services (EVS) Table" max_length="40" name="x_sthc_evs_environmental_services_evs_table" sizeclass="12" type="collection">
+    <element attributes="live_feed=true" audit="true" extends="task" label="Environmental Services (EVS) Table" max_length="40" name="x_sthc_evs_environmental_services_evs_table" sizeclass="14" type="collection">
         <element attributes="ref_contributions=x_sthc_evs_Show related EVS tickets" label="Caller" mandatory="true" max_length="32" name="caller" reference="sys_user" type="reference"/>
         <element attributes="edge_encryption_enabled=true" label="Phone Number" max_length="40" name="phone_number" type="string"/>
     </element>
